@@ -17,6 +17,9 @@
     "bin"
   ],
   "main": "lib/index.js",
+  "bin": {
+    "lh-pages": "bin/lh-gulp-pages.js"
+  },
   "directories": {
     "lib": "lib"
   },
@@ -26,8 +29,7 @@
   },
   "scripts": {
     "lint": "standard --fix"
-  },
-  "bin": "bin/lh-gulp-pages",
+  },  
   "dependencies": {
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
