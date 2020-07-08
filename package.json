@@ -11,7 +11,7 @@
     "url": "https://github.com/LIUHAI1231/lh-gulp-pages/issues"
   },
   "license": "MIT",
-  "author": "LIUHAI1231 <370432344@qq.com>",
+  "author": "liuhaimy@126.com",
   "files": [
     "lib",
     "bin"
@@ -29,7 +29,7 @@
   },
   "scripts": {
     "lint": "standard --fix"
-  },  
+  },
   "dependencies": {
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
